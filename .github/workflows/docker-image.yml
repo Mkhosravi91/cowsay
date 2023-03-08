@@ -1,4 +1,4 @@
-name: Docker Image CI
+name: Docker Image cowsay CC 2023
 
 on:
   push:
